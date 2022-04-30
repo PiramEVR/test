@@ -1,0 +1,71 @@
+
+li {
+    margin: 10px;
+    width: 886px;
+    border: 1px solid black;
+    list-style: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.profileData {
+    display: flex;
+}
+
+.buttonsBlock {
+    display: flex;
+}
+
+.avatar {
+    padding: 10px;
+}
+
+.profileName {
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 16px;
+}
+
+.buttons button {
+    margin: 10px 5px;
+    padding: 8px 10px;
+}
+
+.iconBlock {
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.iconBlock img {
+    padding: 14px 5px 0;
+}
+
+.message {
+    display: flex;
+}
+
+.time {
+    margin-left: 10px;
+}
+
+.text {
+    margin-left: 10px;
+}
+
+.content {
+    margin-bottom: 10px;
+}
+
+.further {
+    padding: 8px 0;
+    opacity: 0.5;
+}
+
+.channel {
+    margin: 8px;
+}
